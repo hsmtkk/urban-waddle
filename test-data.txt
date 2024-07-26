@@ -1,0 +1,2 @@
+2024-07-26 14:32:10, INFO, CustomerAccess, name=山田太郎, email=yamada.taro@example.jp, phone=080-1234-5678, credit_card=4111111111111111
+2024-07-26 14:35:22, INFO, CustomerAccess, name=John Doe, email=john.doe@example.com, phone=555-123-4567, credit_card=4012888888881881

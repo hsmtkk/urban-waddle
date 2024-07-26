@@ -1,0 +1,9 @@
+Generate 2 lines of dummy splunk log.
+
+The first log must include Japanese customer access log.
+It must include name, mail address, phone number and credit card number.
+
+The second log must include English customer access log.
+It must include name, mail address, phone number and credit card number.
+
+Credit card number must have valid check digits.

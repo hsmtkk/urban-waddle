@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+torch = "*"
+llama-index-llms-openai = "*"
+llama-index-llms-huggingface = "*"
+stanza = "*"
+flair = "*"
+ipywidgets = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.7"
